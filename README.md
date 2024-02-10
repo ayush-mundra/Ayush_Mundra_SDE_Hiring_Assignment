@@ -20,8 +20,10 @@ This repository contains the source code for an automated parking lot ticketing 
 1. Compile the `Main.java` file.
    ```bash
    javac Main.java
+2. Run the compiled program.
+   ```bash
+   java Main
 
-Run the compiled program.
 
 java Main
 
