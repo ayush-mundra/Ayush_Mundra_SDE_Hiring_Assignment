@@ -1,4 +1,4 @@
-To improve the appearance of the README on GitHub, you can use Markdown formatting and add more descriptive sections. Here's an enhanced version:
+
 # Automated Parking Lot Ticketing System
 
 This repository contains the source code for an automated parking lot ticketing system implemented in Java. The system allows users to manage parking slots efficiently through a command-line interface.
